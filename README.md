@@ -9,7 +9,10 @@ Create a Screen of our Application!
 - Add consultation reasons and symptoms through a list + Modal
 - Add a consultation time through a Modal
 
-Please note that we are not necessarily expecting you to build all requirements. Build as much as you can. We are not necessarily expecting you to build the full screen. Please check example screenshots and video below.
+Please note that we are not necessarily expecting you to build all requirements. Build as much as you can. We are not necessarily expecting you to build the full screen. Please check example video below.
+![Alt Text](https://github.com/julien9999/speedoc-frontend-test/blob/master/speedoc.gif)
+
+
 
 ### Bonus:
 - Animations
