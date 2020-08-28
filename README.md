@@ -1,1 +1,0 @@
-# speedoc-frontend-test
