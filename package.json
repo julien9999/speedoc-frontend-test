@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "permission": "chmod 755 android/gradlew",
-    "clean": "cd android && ./gradlew clean ",
+    "permission-android": "chmod 755 android/gradlew",
+    "clean-android": "cd android && ./gradlew clean",
     "android": " npx react-native run-android",
+    "pod-ios": "cd ios && pod repo update && pod install",
     "ios": "npx react-native run-ios",
     "start": "react-native start",
     "test": "jest",
